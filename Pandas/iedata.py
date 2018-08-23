@@ -22,4 +22,5 @@ with open(file) as iedata:
 
 #print(type(header))
 print(header)
+print(hoods)
 print(rows[-2:])
