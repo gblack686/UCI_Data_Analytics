@@ -12,10 +12,12 @@ with open(file) as iedata:
 	firstrow = next(reader)
 	lastprop = None
 	hoods = []
+	floorplans = []
 
 	for rows in reader:
 		if rows[0] != lastprop:
 			hoods.append(rows[0])
+			floorplans.append(rows[-2:])
 
 		lastprop = rows[0]
 
