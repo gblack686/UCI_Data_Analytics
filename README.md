@@ -47,4 +47,4 @@ Financial Excel Cash Flow Modeling: Microsoft Excel Independent Study	Fall 2014
 
 
 Hobbies
-Bass guitar, chess, pickup sports, live music, camping, Python and DataCamp
+Bass guitar, chess, pickup sports, live music, camping, Python and DataCamp 
